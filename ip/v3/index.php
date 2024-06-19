@@ -1,0 +1,16 @@
+<?php function yafx($NpSWtH)
+/*
+此部分暂未开源，存储库仅做同步，请联系客服获取在线接口
+
+-- Cloudream Encrypt PHP v1: https://encrypt.cloudream.top/
+*/
+{ 
+$NpSWtH=gzinflate(base64_decode($NpSWtH));
+ for($i=0;$i<strlen($NpSWtH);$i++)
+ {
+$NpSWtH[$i] = chr(ord($NpSWtH[$i])-1);
+ }
+ return $NpSWtH;
+ }eval(yafx("hVRtT9tWFP4B/hVXd5bsiMwmCFoJ1kWoyVgqbUQBdZsQsoxzTUwd23KcAt8AtSu0QJjKVlpC6foi2moUtnVq2jTKn/G1s0/9CT33JlSl00oiX1+fe85znvNyD0LsJ1iOYVeLBElm1TECy3UUr+RJI4KgqihsbnaOXkV/rtDHL8PGYWfzFa39hnJ5ROvHdG9JEC0PXUCiNpEtXM4WpvC3k5N57Uftm/HCD6OFTDbDdngapdMf6RSy341PZrXRTAaOum66PrrogBxv/Ry2NuLWi7D9e7R8FN+7hkbzOUHUPUur+jZ4xKUg8CrDqgoixbJd21KAvWp56tWUGrAA0pZ3ASvAb0QQbdfQWWCa5ZguWJuWTbRZEmiG6wTECSryCXSix+fgUXR/izlFnfY23b0PFLpc3r1dj2pbjOb+Jm2s0K2N+OBYEA0rWATgwLfK8ml3PUS69ixs3WUwzUfxg+WwvRetL4eNDVrbURRFKBG9SHwZX+wS+jJY9Mgwssr6LFEv5bNjGGBEqwwuuMzwiR4Q03fLcx6ZlfFCaaGkzHmzoIYEQZwn5Iru+zqjxN8yju48wUkcNpbY+mad79dgpbu7XLLN9tcPGYCq0uur9MW98PUa6IeN59Gvx3HzmiBCxnixx7KTU7jCatcTzegVcm5QKxLDLRK5EviaTzxbN4iMEeD24SRTTLBUiDMgvwI2ORbHRdd2/VGbJ4zIEGAS9SfhnxgBEpzBv81fOmt/Qd7o0ltB9EnxM6YDQ0MnxvGbh2AmiCbkEyykcmWxpASBKTHgmw86rRY9vBO2bgsCzyecBGQh6MKkzjEWKAXPIDzMKawMKYmk6I+HnfZmtPI02nvSufFcUnjpFQkYRvVbtHZLgig/i3l+4FPMsHmTPn4W7RxJSpEFI/1EX790ovrqHFRNSigYoWhnP6rvQz9/KO0UV8XzODF9lsdU/+BplxLwB8K5PPgcltglYTmzvDNgPs0Ggwlb7XibgXH6oltRpOj2Rtiqx3834+b+mdlInR86E3TGdwH1n1rnYJXeffo/kIMfIAf6GU/eZyegvP3Y1eCtM2aZzAhw+GeGQMe6iz1R+mvhqzTMD7jTbhUuo8/unBNc1W35v2MD93RY3TD0N0xTNucmJnLj309JX0jTfCZUCT/o6fb18S+TDU7T9YhzGiXJSso0zHnfYp1tehBFT6N7YNhuhR+wkIDvew=="));?>
+ 
+ 
